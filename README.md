@@ -1,5 +1,5 @@
 # Data-Analysis-Capstone-Case-Study
-By work in a team of 4 members, we worked together to solve a case study provided. The problem statements are shown like below where the character 
+By work in a team of 4 members, we worked together to solve a case study provided. The problem statements are shown like below where the main character 
 in this case were Mr. Anderson and his family:
 
 Problem Statements:
